@@ -1,4 +1,4 @@
-// create a function to fetch the data from the API
+// function to fetch the data from the API
 
 const fetchData = async () => {
     const response = await fetch("https://thronesapi.com/api/v2/Characters");
