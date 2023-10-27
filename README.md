@@ -10,7 +10,7 @@ Author: Shalom Nganga Email: minnomacharia@gmail.com.
 1.Technologies Used. 2.Installation. 3.Usage. 4.Contributing. 5.License.
 
 ## Technologies Used
--HTML5 CSS3 JavaScript FontAwesome (version 6.4.0)
+-HTML CSS  JavaScript and FontAwesome (version 6.4.0)
 
 Installation
 To use the Game Of Thrones web application, follow these steps:
