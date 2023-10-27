@@ -1,6 +1,6 @@
 
 body{
-  background-image:url(https://images.pexels.com/photos/2170473/pexels-photo-2170473.jpeg?auto=compress&cs=tinysrgb&w=600) ;
+  background-image:url(https://images.pexels.com/photos/3608311/pexels-photo-3608311.jpeg?auto=compress&cs=tinysrgb&w=600) ;
   background-repeat:round;
   background-position: center;
   
@@ -87,4 +87,13 @@ body{
     justify-content: space-between;
     padding: 30px;
     text-align: center;
+}
+
+#background-video {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 200%;
+  height: 250%;
+  z-index: -1;
 }
