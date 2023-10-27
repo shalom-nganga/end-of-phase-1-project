@@ -1,5 +1,4 @@
 # Game Of Thrones 
-by Shalom Nganga
 
 This repository contains the code for Characters In The Game Of Thrones, a web application that allows users to search and see characters,their roles and their families. It provides a user-friendly interface for searching characters based on their names.
 
