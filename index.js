@@ -54,3 +54,4 @@ const fetchData = async () => {
   
   
   fetchData().then((data) => displayData(data));
+  
